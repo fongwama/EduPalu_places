@@ -4,6 +4,6 @@ disponible version 1.0 :
   *la geolocalisation est possible avec une position fixe tapée en dur dans le code
 
 fonctionnalté futur version 1.1
-  *la geolocalisation sera variable par rapport à la possition actuel en temps reel
+  *la geolocalisation sera variable par rapport à la possition actuelle en temps réel
   *ajout d'un champs combo, pour ressortir tous les centres de santé, puis les 
-   géolocalisés.
+   géolocaliser.
