@@ -2436,7 +2436,6 @@ places = [
         "lat": -4.262288,
         "lon": 15.252424,
         "name": "Pharmacie Delorme",
-        "photo": "dining-room-duplex.png",
         "tel1": "060408828",
         "tel2": "059742171"
     },
@@ -4227,7 +4226,6 @@ places = [
         "lat": -4.788682,
         "lon": 11.865118,
         "name": "Pharmacie Delorme",
-        "photo": "circular-apartment.png",
         "tel1": "063677802",
         "tel2": "056992360"
     },
@@ -9868,7 +9866,6 @@ places = [
         "lat": -4.788782,
         "lon": 11.865529,
         "name": "Pharmacie Delorme",
-        "photo":"beautiful-villa-ocean.png",
         "tel1": "056280433",
         "tel2": "061173607"
     },
@@ -10799,7 +10796,6 @@ places = [
         "lat": -4.262829,
         "lon": 15.252511,
         "name": "Pharmacie Hebert",
-        "photo":"circular-apartment.png",
         "tel1": "054827232",
         "tel2": "060581571"
     },
