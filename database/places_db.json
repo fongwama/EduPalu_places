@@ -1,15 +1,5 @@
 places = [
     {
-        "address": "rue Paris\nface entreprise Goncalves",
-        "city": "Pointe-Noire",
-        "id": 0,
-        "lat": -4.788426,
-        "lon": 11.864629,
-        "name": "Pharmacie Collin",
-        "tel1": "064751455",
-        "tel2": "069443823"
-    },
-    {
         "address": "rue de Bousquet\nface entreprise De Sousa",
         "city": "Brazzaville",
         "id": 1,
@@ -20002,5 +19992,45 @@ places = [
         "name": "Pharmacie Buisson",
         "tel1": "051301333",
         "tel2": "050909873"
-    }
+    },
+    {
+        "address": "",
+        "city": "Brazzaville",
+        "id": 2000,
+        "lat": -4.213,
+        "lon": 15.268,
+        "name": "Perle Emeraude",
+        "tel1": "",
+        "tel2": ""
+    },
+    {
+        "address": "",
+        "city": "Brazzaville",
+        "id": 2001,
+        "lat": -4.19,
+        "lon": 15.255,
+        "name": "Antony",
+        "tel1": "",
+        "tel2": ""
+    }, 
+    {
+        "address": "",
+        "city": "Brazzaville",
+        "id": 2002,
+        "lat": -4.191,
+        "lon": 15.254,
+        "name": "Esplanade",
+        "tel1": "",
+        "tel2": ""
+    },
+    {
+        "address": "",
+        "city": "Brazzaville",
+        "id": 2003,
+        "lat": -4.198,
+        "lon": 15.259,
+        "name": "L'île de santé",
+        "tel1": "",
+        "tel2": ""
+    }    
 ]
